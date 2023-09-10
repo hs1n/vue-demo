@@ -8,5 +8,5 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f https://github.com/hs1n/vue-demo master:gh-pages
+git push -f https://github.com/hs1n/vue-demo main:gh-pages
 cd -
